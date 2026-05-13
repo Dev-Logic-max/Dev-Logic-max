@@ -21,15 +21,38 @@ Most of my work focuses on **frontend engineering, backend systems, authenticati
 
 ## 🛠️ Tech Stack
 
-### Frontend               ### Backend               ### Database & Services               ### Tools & Platforms
+### Frontend
 
-* React.js                * Node.js                  * MongoDB                             * Git & GitHub
-* Next.js                 * Express.js               * Supabase                            * VS Code
-* TypeScript              * NestJS                   * Firebase                            * Postman
-* Tailwind CSS            * REST APIs                                                      * Railway
-* Redux Toolkit           * JWT Authentication                                             * Vercel
-* Material UI                                                                              * Netlify
+* React.js
+* Next.js
+* TypeScript
+* Tailwind CSS
+* Redux Toolkit
+* Material UI
 * Framer Motion
+
+### Backend
+
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* JWT Authentication
+
+### Database & Services
+
+* MongoDB
+* Supabase
+* Firebase
+
+### Tools & Platforms
+
+* Git & GitHub
+* VS Code
+* Postman
+* Railway
+* Vercel
+* Netlify
 
 ---
 
